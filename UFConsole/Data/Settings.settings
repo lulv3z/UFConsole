@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UFConsole.Data" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="isSafeMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="isUpdateInfo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ConsoleTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGray</Value>
+    </Setting>
+    <Setting Name="ConsoleBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 100</Value>
+    </Setting>
+    <Setting Name="InputTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGray</Value>
+    </Setting>
+    <Setting Name="InputBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">70, 70, 100</Value>
+    </Setting>
+    <Setting Name="SidebarBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">70, 70, 100</Value>
+    </Setting>
+    <Setting Name="TopBarTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TopBarBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">20, 20, 20</Value>
+    </Setting>
+    <Setting Name="SidebarTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="FormOpacity" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="FormColorKey" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
